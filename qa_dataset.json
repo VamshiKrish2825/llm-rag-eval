@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the risk-free rate commonly used in the Capital Asset Pricing Model?",
+    "context": "The Capital Asset Pricing Model (CAPM) estimates the expected return of an asset based on its systematic risk. The risk-free rate in CAPM is typically proxied by the yield on short-term government bonds, most commonly the 3-month or 10-year U.S. Treasury yield. The model formula is: Expected Return = Risk-Free Rate + Beta × (Market Return − Risk-Free Rate).",
+    "reference_answer": "The risk-free rate in CAPM is typically proxied by the yield on U.S. Treasury bonds, commonly the 3-month T-bill or 10-year Treasury yield."
+  },
+  {
+    "question": "What does a high Price-to-Earnings (P/E) ratio indicate?",
+    "context": "The Price-to-Earnings ratio (P/E) is calculated by dividing a company's share price by its earnings per share (EPS). A high P/E ratio generally indicates that investors expect high future growth and are willing to pay a premium for current earnings. It may also signal that a stock is overvalued relative to its peers. Growth stocks typically have higher P/Es than value stocks.",
+    "reference_answer": "A high P/E ratio indicates that investors expect strong future growth or that the stock may be overvalued relative to current earnings."
+  },
+  {
+    "question": "How does quantitative easing affect bond yields?",
+    "context": "Quantitative easing (QE) is a monetary policy tool where a central bank purchases government bonds and other financial assets to inject liquidity into the economy. When the central bank buys bonds in large quantities, bond prices rise. Because bond prices and yields move inversely, rising prices cause yields to fall. Lower yields reduce borrowing costs for governments, corporations, and consumers.",
+    "reference_answer": "Quantitative easing causes central banks to buy bonds, which raises bond prices and, due to the inverse relationship between price and yield, lowers bond yields."
+  },
+  {
+    "question": "What is a callable bond?",
+    "context": "A callable bond gives the issuer the right, but not the obligation, to redeem the bond before its maturity date at a predetermined call price. Issuers exercise this option when interest rates decline, allowing them to refinance debt at lower rates. Because of this embedded option, callable bonds typically offer higher coupon rates than comparable non-callable bonds to compensate investors for the call risk.",
+    "reference_answer": "A callable bond allows the issuer to redeem it before maturity, usually when interest rates fall. Investors receive higher coupon rates to compensate for this reinvestment risk."
+  },
+  {
+    "question": "What is the Sharpe Ratio used for?",
+    "context": "The Sharpe Ratio, developed by William Sharpe, measures the risk-adjusted return of an investment. It is computed as (Portfolio Return − Risk-Free Rate) / Standard Deviation of Portfolio Returns. A higher Sharpe Ratio indicates better return per unit of risk taken. Investors use it to compare portfolios or funds that have different levels of risk.",
+    "reference_answer": "The Sharpe Ratio measures risk-adjusted returns. A higher ratio means more return per unit of risk, making it useful for comparing investment portfolios."
+  },
+  {
+    "question": "What is the difference between systematic and unsystematic risk?",
+    "context": "Systematic risk, also called market risk, affects the entire market or a broad asset class and cannot be eliminated through diversification. Examples include interest rate changes, recessions, and geopolitical events. Unsystematic risk, or idiosyncratic risk, is specific to a company or industry—such as a product recall or management scandal—and can be reduced by holding a diversified portfolio.",
+    "reference_answer": "Systematic risk is market-wide and non-diversifiable (e.g., recessions). Unsystematic risk is company-specific and can be reduced through diversification."
+  },
+  {
+    "question": "What is the Efficient Market Hypothesis?",
+    "context": "The Efficient Market Hypothesis (EMH), developed by Eugene Fama, posits that asset prices fully reflect all available information at any given time. It comes in three forms: weak (prices reflect past price data), semi-strong (prices reflect all public information), and strong (prices reflect all information, including insider data). EMH implies that it is impossible to consistently outperform the market using public information or technical analysis.",
+    "reference_answer": "EMH states that asset prices fully reflect all available information, making it impossible to consistently beat the market. It exists in weak, semi-strong, and strong forms."
+  },
+  {
+    "question": "How is Return on Equity (ROE) calculated?",
+    "context": "Return on Equity (ROE) measures how effectively a company generates profit from shareholders' equity. It is calculated as Net Income divided by Shareholders' Equity, expressed as a percentage. A high ROE suggests efficient use of equity capital. The DuPont decomposition breaks ROE into three components: profit margin, asset turnover, and financial leverage.",
+    "reference_answer": "ROE = Net Income / Shareholders' Equity. It measures profitability relative to equity; a higher ROE signals more efficient use of shareholder capital."
+  },
+  {
+    "question": "What is duration in fixed income investing?",
+    "context": "Duration measures the sensitivity of a bond's price to changes in interest rates. Macaulay duration is the weighted average time to receive the bond's cash flows. Modified duration estimates the percentage change in bond price for a 1% change in yield. A bond with a modified duration of 5 will lose approximately 5% in value if interest rates rise by 1%.",
+    "reference_answer": "Duration measures a bond's sensitivity to interest rate changes. A higher duration means greater price volatility when rates move."
+  },
+  {
+    "question": "What is a credit default swap (CDS)?",
+    "context": "A credit default swap (CDS) is a financial derivative that allows one party to transfer the credit risk of a reference entity (such as a corporation or sovereign) to another party. The protection buyer pays periodic premiums to the protection seller. If the reference entity defaults, the seller compensates the buyer for the loss. CDS are used for hedging credit exposure and for speculative trading on credit quality.",
+    "reference_answer": "A CDS is a derivative used to transfer credit risk. The buyer pays premiums and receives compensation if the reference entity defaults."
+  },
+  {
+    "question": "What is the yield curve and what does an inverted yield curve signal?",
+    "context": "The yield curve plots bond yields of the same credit quality against maturities ranging from short-term to long-term. Normally the curve is upward-sloping, reflecting higher yields for longer maturities due to greater uncertainty. An inverted yield curve occurs when short-term yields exceed long-term yields. Historically, an inverted yield curve has been a reliable leading indicator of an economic recession.",
+    "reference_answer": "The yield curve shows bond yields across maturities. An inverted curve (short-term rates above long-term) has historically preceded economic recessions."
+  },
+  {
+    "question": "What is the difference between EBITDA and net income?",
+    "context": "EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) is a measure of operating profitability that excludes non-cash charges and capital structure decisions. Net income is the bottom-line profit after all expenses, including interest, taxes, depreciation, and amortization, have been deducted. EBITDA is often used to compare profitability across companies with different capital structures.",
+    "reference_answer": "EBITDA excludes interest, taxes, D&A to show operating performance. Net income is the final profit after all deductions. EBITDA is better for cross-company comparisons."
+  },
+  {
+    "question": "What is a forward rate agreement (FRA)?",
+    "context": "A Forward Rate Agreement (FRA) is an over-the-counter derivative that allows parties to lock in an interest rate for a future borrowing or lending period. The buyer of an FRA profits if actual market rates exceed the agreed rate; the seller profits if rates are lower. Settlement is in cash based on the difference between the agreed rate and the reference rate (e.g., LIBOR or SOFR) at expiry.",
+    "reference_answer": "An FRA locks in an interest rate for a future period. The party that benefits depends on whether actual rates exceed or fall below the agreed rate, with cash settlement."
+  },
+  {
+    "question": "What is portfolio rebalancing?",
+    "context": "Portfolio rebalancing is the process of realigning portfolio weights back to their target allocations by buying or selling assets. Over time, market movements cause asset weights to drift from their targets—for example, a strong equity market may cause stocks to become overweight. Rebalancing restores the intended risk profile and can be done on a calendar basis (e.g., quarterly) or based on threshold triggers (e.g., if weights drift more than 5%).",
+    "reference_answer": "Portfolio rebalancing realigns asset weights to target allocations. It manages risk by preventing any one asset class from becoming overweight due to price movements."
+  },
+  {
+    "question": "What is the significance of the Debt-to-Equity ratio?",
+    "context": "The Debt-to-Equity (D/E) ratio compares a company's total liabilities to its shareholders' equity, indicating how much the company is financed by debt versus equity. A high D/E ratio suggests greater financial leverage, which amplifies both gains and losses. Lenders and investors use it to assess the financial risk profile of a company. Acceptable D/E ratios vary widely across industries.",
+    "reference_answer": "D/E ratio = Total Debt / Equity. A high ratio indicates heavy leverage, which amplifies returns and risk. Acceptable levels vary by industry."
+  },
+  {
+    "question": "What is alpha in portfolio management?",
+    "context": "Alpha represents the excess return of an investment relative to its benchmark after adjusting for risk. A positive alpha means the portfolio manager has added value beyond what market exposure alone would provide. Alpha is often estimated using the Jensen's alpha framework, which regresses portfolio returns against benchmark returns. It is a key measure of active management skill.",
+    "reference_answer": "Alpha is the risk-adjusted excess return above a benchmark. Positive alpha indicates a portfolio manager has outperformed after accounting for market risk."
+  },
+  {
+    "question": "How does inflation affect bond prices?",
+    "context": "Inflation erodes the purchasing power of a bond's fixed future cash flows, making them less valuable in real terms. As inflation expectations rise, nominal interest rates tend to increase (per the Fisher effect), which causes existing bond prices to fall. Long-duration bonds are more sensitive to inflation-driven rate rises than short-duration bonds. Inflation-indexed bonds (like TIPS) are designed to protect against this risk.",
+    "reference_answer": "Rising inflation reduces the real value of bond cash flows and pushes up interest rates, causing bond prices to fall. Longer-duration bonds are more affected."
+  },
+  {
+    "question": "What is the Black-Scholes model used for?",
+    "context": "The Black-Scholes model is a mathematical framework for pricing European-style options. It takes as inputs the underlying asset price, strike price, time to expiration, risk-free rate, and implied volatility. The model assumes constant volatility, no dividends, and frictionless markets. Its key output is the theoretical fair value of a call or put option, and it is widely used in financial derivatives trading.",
+    "reference_answer": "Black-Scholes prices European options using inputs like spot price, strike, time to expiry, risk-free rate, and volatility. It assumes constant volatility and frictionless markets."
+  },
+  {
+    "question": "What is the role of a market maker?",
+    "context": "A market maker is a financial firm or individual that continuously quotes bid and ask prices for a security, standing ready to buy and sell at those prices. Market makers provide liquidity to financial markets, ensuring that buyers and sellers can transact at any time. They earn profit from the bid-ask spread. Without market makers, markets would be less liquid, and transaction costs for investors would be higher.",
+    "reference_answer": "Market makers quote continuous bid/ask prices and provide liquidity by being ready to buy or sell at any time. They profit from the bid-ask spread."
+  },
+  {
+    "question": "What is value at risk (VaR)?",
+    "context": "Value at Risk (VaR) is a statistical measure that quantifies the maximum potential loss a portfolio could face over a given time horizon at a specified confidence level. For example, a 1-day 95% VaR of $1 million means there is a 5% probability that the portfolio will lose more than $1 million in a single day. VaR is widely used by banks and asset managers to communicate and manage risk exposures.",
+    "reference_answer": "VaR estimates the maximum expected loss over a given horizon at a set confidence level (e.g., 95% 1-day VaR of $1M means 5% chance of losing more than $1M in a day)."
+  }
+]

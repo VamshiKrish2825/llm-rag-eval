@@ -1,0 +1,16 @@
+# Core evaluation framework
+ragas>=0.3.0
+
+# Dataset handling (required by RAGAS)
+datasets>=2.20.0
+
+# Groq API (OpenAI-compatible)
+openai>=1.30.0
+
+# Data processing & visualization
+pandas>=2.0.0
+numpy>=1.26.0
+matplotlib>=3.9.0
+
+# Optional: used by some RAGAS metrics
+sentence-transformers>=3.0.0
